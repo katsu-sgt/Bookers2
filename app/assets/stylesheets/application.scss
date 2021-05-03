@@ -29,3 +29,20 @@
 div.field, div.actions {
   margin-bottom: 10px;
 }
+
+.Notification {
+ .notice {
+   color: #008000;
+ }
+ .alert {
+   color: #ff0000;
+ }
+}
+
+#error_explanation {
+    color: red;
+}
+
+#error_explanation ul {
+  padding-left: 40px;
+}
